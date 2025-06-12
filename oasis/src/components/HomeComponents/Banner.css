@@ -1,0 +1,40 @@
+body {
+    background-color: bisque;
+}
+.B {
+    
+    margin-left: 1.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 97%;
+  height: 60vh;
+  position: relative;
+    background: url('/public/web_images/spa.jpg');
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.text-center-wrapper {
+  z-index: 5;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.text-center-wrapper h5 {
+  font-size: 3rem;
+  color: rgb(56, 49, 49);
+  margin: 0;
+}
+
+.text-center-wrapper .phrase {
+  font-size: 1.5rem;
+  color: rgb(170, 168, 168);
+  margin-top: 10px;
+}
+

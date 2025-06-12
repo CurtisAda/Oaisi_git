@@ -8,11 +8,22 @@
 .body {
     display: flex;
     list-style: none;
+    background-color: #A3D9B1;
+    color: #000000;
     font-family: 'Cormorant Garamond', serif;
     width: 100%;
     padding: 0 0.7vw;
-    justify-content: space-evenly;
+    justify-content:space-between;
     align-items: center;
+}
+
+.logo {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    color: #dfe9e5;
+    letter-spacing: 2px;
+    text-transform: lowercase;
 }
 
 .body ul {
@@ -25,12 +36,14 @@
 }
 
 .body li a{
+    font-family: 'Poppins', sans-serif;
+    color: #2E2E2E;
     text-decoration: none;
     margin: 0 0.7vw;
 }
 
 .body li a:hover {
-    color: #61DAFB;
+    color: #ffffff;
 }
 
 .body li a::before {
@@ -38,7 +51,7 @@
     display: block;
     height: 3px;
     width: 0%;
-    background-color: #61DAFB;
+    background-color: #ffffff;
     position: absolute;
     transition: all ease-in-out 250ms;
     margin: 0 0 0 10%;
