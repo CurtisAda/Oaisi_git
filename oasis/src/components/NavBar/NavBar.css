@@ -1,8 +1,5 @@
 .navTest {
-    display: flex;
     width: 100%;
-    justify-content: space-between; /* or center/space-around depending on layout */
-    align-items: center;
 }
 
 .body {
@@ -19,8 +16,9 @@
 
 .logo {
     font-family: 'Poppins', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 28px;
+    width: 600%;
     color: #dfe9e5;
     letter-spacing: 2px;
     text-transform: lowercase;
