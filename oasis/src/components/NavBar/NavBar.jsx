@@ -12,7 +12,7 @@ function NavBar() {
             <div className='container flex-center'>
                 <ul className='flex-center'>
                     <li>
-                        <NavLink to="/" className='nav-link'>
+                        <NavLink to="/home" className='nav-link'>
                             Home
                         </NavLink>
                     </li>
