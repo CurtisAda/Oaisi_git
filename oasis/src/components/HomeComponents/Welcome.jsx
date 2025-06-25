@@ -1,5 +1,5 @@
 import './Welcome.css'
-import MyImage from '../../assets/woman.jpg'
+import MyImage from '../../assets/orchids.jpg'
 
 let text = "We are a locally owned Spa and operated out of Riverview and Sun City Center FL. We offer Massage and Facials at affordable pricing with great specials."
 

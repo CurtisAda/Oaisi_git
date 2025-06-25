@@ -1,7 +1,7 @@
 import RCard from "../reusable/RCard";
 import './Services.css'
 import face from '../../assets/womanFace.jpg'
-import head from '../../assets/head.jpg'
+import oil from '../../assets/nice_soap.jpg'
 import back from '../../assets/woman.jpg'
 function Services() {
     return(
@@ -17,7 +17,7 @@ function Services() {
                     <RCard sn="Massages" pic={back}/>
                 </div>
                 <div className="column">
-                    <RCard sn="Massages" pic={back}/>
+                    <RCard sn="Beauty" pic={oil}/>
                 </div>
             </div>
         </div>
