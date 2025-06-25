@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Oaisi_git/static/css/main.1e4ad537.css",
-    "main.js": "/Oaisi_git/static/js/main.2d9d9c1c.js",
+    "main.css": "/Oaisi_git/static/css/main.d495aa4b.css",
+    "main.js": "/Oaisi_git/static/js/main.b64ba927.js",
     "static/js/453.10b2bc7e.chunk.js": "/Oaisi_git/static/js/453.10b2bc7e.chunk.js",
     "static/media/msg.mp4": "/Oaisi_git/static/media/msg.e592beeb2a4c49429c47.mp4",
     "static/media/orchids.jpg": "/Oaisi_git/static/media/orchids.0b606077d5ab6276e96c.jpg",
@@ -11,12 +11,12 @@
     "static/media/head.jpg": "/Oaisi_git/static/media/head.7bebb3eb3c45973f87ab.jpg",
     "static/media/logo.svg": "/Oaisi_git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Oaisi_git/index.html",
-    "main.1e4ad537.css.map": "/Oaisi_git/static/css/main.1e4ad537.css.map",
-    "main.2d9d9c1c.js.map": "/Oaisi_git/static/js/main.2d9d9c1c.js.map",
+    "main.d495aa4b.css.map": "/Oaisi_git/static/css/main.d495aa4b.css.map",
+    "main.b64ba927.js.map": "/Oaisi_git/static/js/main.b64ba927.js.map",
     "453.10b2bc7e.chunk.js.map": "/Oaisi_git/static/js/453.10b2bc7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e4ad537.css",
-    "static/js/main.2d9d9c1c.js"
+    "static/css/main.d495aa4b.css",
+    "static/js/main.b64ba927.js"
   ]
 }
