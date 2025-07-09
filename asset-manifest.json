@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Oaisi_git/home/static/css/main.d495aa4b.css",
-    "main.js": "/Oaisi_git/home/static/js/main.b4ad486a.js",
-    "static/js/453.10b2bc7e.chunk.js": "/Oaisi_git/home/static/js/453.10b2bc7e.chunk.js",
-    "static/media/msg.mp4": "/Oaisi_git/home/static/media/msg.e592beeb2a4c49429c47.mp4",
-    "static/media/orchids.jpg": "/Oaisi_git/home/static/media/orchids.0b606077d5ab6276e96c.jpg",
-    "static/media/womanFace.jpg": "/Oaisi_git/home/static/media/womanFace.e6cc3f09118159dda19e.jpg",
-    "static/media/nice_soap.jpg": "/Oaisi_git/home/static/media/nice_soap.155b98511734f6bf7005.jpg",
-    "static/media/woman.jpg": "/Oaisi_git/home/static/media/woman.da17c727c15d9199ea2d.jpg",
-    "static/media/head.jpg": "/Oaisi_git/home/static/media/head.7bebb3eb3c45973f87ab.jpg",
-    "static/media/logo.svg": "/Oaisi_git/home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Oaisi_git/home/index.html",
-    "main.d495aa4b.css.map": "/Oaisi_git/home/static/css/main.d495aa4b.css.map",
-    "main.b4ad486a.js.map": "/Oaisi_git/home/static/js/main.b4ad486a.js.map",
-    "453.10b2bc7e.chunk.js.map": "/Oaisi_git/home/static/js/453.10b2bc7e.chunk.js.map"
+    "main.css": "/Oaisi_git/static/css/main.d495aa4b.css",
+    "main.js": "/Oaisi_git/static/js/main.10708a17.js",
+    "static/js/453.10b2bc7e.chunk.js": "/Oaisi_git/static/js/453.10b2bc7e.chunk.js",
+    "static/media/msg.mp4": "/Oaisi_git/static/media/msg.e592beeb2a4c49429c47.mp4",
+    "static/media/orchids.jpg": "/Oaisi_git/static/media/orchids.0b606077d5ab6276e96c.jpg",
+    "static/media/womanFace.jpg": "/Oaisi_git/static/media/womanFace.e6cc3f09118159dda19e.jpg",
+    "static/media/nice_soap.jpg": "/Oaisi_git/static/media/nice_soap.155b98511734f6bf7005.jpg",
+    "static/media/woman.jpg": "/Oaisi_git/static/media/woman.da17c727c15d9199ea2d.jpg",
+    "static/media/head.jpg": "/Oaisi_git/static/media/head.7bebb3eb3c45973f87ab.jpg",
+    "static/media/logo.svg": "/Oaisi_git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Oaisi_git/index.html",
+    "main.d495aa4b.css.map": "/Oaisi_git/static/css/main.d495aa4b.css.map",
+    "main.10708a17.js.map": "/Oaisi_git/static/js/main.10708a17.js.map",
+    "453.10b2bc7e.chunk.js.map": "/Oaisi_git/static/js/453.10b2bc7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d495aa4b.css",
-    "static/js/main.b4ad486a.js"
+    "static/js/main.10708a17.js"
   ]
 }
